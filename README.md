@@ -12,15 +12,17 @@
 
 - C (Arduino)
 
-- C++ (공부중)
+- C++ (알고리즘 공부)
 
 - C# (WinForm)
 
-- Java (JSP, Servlet)
+- Java (Spring, JSP, Servlet, thymeleaf, MyBatis)
 
 - Python (Raspberry Pi, django, Flask)
 
-- HTML, CSS, JavaScript (Node.js, MongoDB)
+- HTML, CSS
+
+- JavaScript (Node.js, MongoDB, ReactJS(공부중))
 
 - SQL (MySQL, PostgreSQL)
 
@@ -28,11 +30,13 @@
 
 - R
 
+- Jupyter Notebook, Colab(BeautifulSoup, Selenium)
+
 - PHP (Laravel)
 
 - Shell
 
-- QGIS (공부중)
+- QGIS
 
 # Award
 
@@ -49,6 +53,8 @@
 - 22학년도 2학기 다독자📚 (22.09.08)
 
 - JBU CTF(해킹방어대회) 장려상(6위)🔐 (22.11.02)
+
+- K-Digital 빅데이터 분석 및 플랫폼구축 실무양성과정 수료 (22.08.01 ~ 23.01.09, 920시간)
 
 # Certificate
 
@@ -93,6 +99,14 @@
    ...
 
 2. No Touch Fitness
+
+   ...
+
+3. Fakerly
+
+   ...
+   
+4. OO이네 만화방
 
    ...
 
