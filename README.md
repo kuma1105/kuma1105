@@ -94,19 +94,19 @@
 
 # Project Portfolio
 
-1. 무드가습기
+1. 무드가습기(은은한 LED 불빛과 주변 온습도에 따라 자동으로 동작하는 가습기)
 
    ...
 
-2. No Touch Fitness
+2. No Touch Fitness(비대면 피트니스 서비스, 그런데 이제 메타버스를 곁들인)
 
    ...
 
-3. Fakerly
+3. Fakerly(개발자 커뮤니티)
 
    ...
    
-4. OO이네 만화방
+4. OO이네 만화방(네이버 웹툰 추천 서비스)
 
    ...
 
