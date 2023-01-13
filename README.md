@@ -26,7 +26,7 @@
 
 - SQL (MySQL, PostgreSQL)
 
-- Flutter (Android APP)
+- Dart, Flutter (Android APP)
 
 - R
 
@@ -109,6 +109,10 @@
 4. OO이네 만화방(네이버 웹툰 추천 서비스)
 
    ...
+
+# ETC
+
+1. 플러터(Flutter) 핸즈온 교육 - flutter로 이미지 검색 앱 만들기 w/ 오준석 강사님 (23.01.13 13:00 ~ 17:00)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=395498&height=400&text=Thank%20you%20for%20comming😊&fontSize=60&fontAlignY=55&fontColor=ffffff&stroke=FAE100&strokeWidth=3)
 
