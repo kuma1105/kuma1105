@@ -10,19 +10,21 @@
 
 # Tech
 
+- Scratch
+
 - C (Arduino)
 
-- C++ (알고리즘 공부)
+- C++ (알고리즘)
 
 - C# (WinForm)
 
-- Java (Spring, JSP, Servlet, thymeleaf, MyBatis)
+- Java (Spring, Servlet, Thymeleaf, MyBatis, JSP)
 
-- Python (Raspberry Pi, django, Flask)
+- Python (Raspberry Pi, Django, Flask)
 
 - HTML, CSS
 
-- JavaScript (Node.js, MongoDB, ReactJS(공부중))
+- JavaScript (Node.js, MongoDB, ReactJS)
 
 - SQL (MySQL, PostgreSQL)
 
@@ -37,6 +39,8 @@
 - Shell
 
 - QGIS
+
+- TypeScript
 
 # Award
 
@@ -55,6 +59,8 @@
 - JBU CTF(해킹방어대회) 장려상(6위)🔐 (22.11.02)
 
 - K-Digital 빅데이터 분석 및 플랫폼구축 실무양성과정 수료🏅 (22.08.01 ~ 23.01.09, 920시간)
+
+- 학부 학과 성적우수자 표창장 총장상👨‍🎓 (23.02.16)
 
 # Certificate
 
@@ -95,18 +101,34 @@
 # Project Portfolio
 
 1. 무드가습기(은은한 LED 불빛과 주변 온습도에 따라 자동으로 동작하는 가습기)
-
+   
+   Back-end : Python
+   
+   Android APP : Flutter
+   
    ...
 
 2. No Touch Fitness(비대면 피트니스 서비스, 그런데 이제 메타버스를 곁들인)
 
+   Front-end : HTML, CSS, JavaScript, EJS
+   
+   Back-end : Node.js, MongoDB
+   
    ...
 
 3. Fakerly(개발자 커뮤니티)
 
+   Front-end : HTML, CSS, JavaScript, Thymeleaf
+   
+   Back-end : Spring, MySQL
+
    ...
    
 4. OO이네 만화방(네이버 웹툰 추천 서비스)
+
+   Front-end : HTML, CSS, JavaScript
+   
+   Back-end : Flask
 
    ...
 
