@@ -134,7 +134,13 @@
 
 # ETC
 
-1. 플러터(Flutter) 핸즈온 교육 - flutter로 이미지 검색 앱 만들기 w/ 오준석 강사님 (23.01.13 13:00 ~ 17:00)
+1. 플러터(Flutter) 핸즈온 교육(23.01.13 13:00 ~ 17:00) - flutter로 이미지 검색 앱 만들기 w/ 오준석 강사님
+
+2. 솔리드웍스 기초 실무 1차 교육(24.02.15~16 13:00 ~ 17:00)
+   - 솔리드웍스 인터페이스 구성 설명 및 옵션 설정
+   - 2D스케치 작성과 편집, 구속조건 등 필수 스케치 도구 연습
+   - 파트 모델링, 대칭, 구배, 패턴 등 필수 모델링 도구 연습
+   - 기본, 중급 모델링 연습, 모델링 수정과 편집
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=395498&height=400&text=Thank%20you%20for%20comming😊&fontSize=60&fontAlignY=55&fontColor=ffffff&stroke=FAE100&strokeWidth=3)
 
