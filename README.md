@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=03C75B&height=400&section=header&text=Seung-Hwan%20Jung&fontSize=90&desc=Student&animation=fadeIn&fontColor=ffffff&fontAlign=50&fontAlignY=40&descSize=40&descAlign=50&descAlignY=60&stroke=FAE100&strokeWidth=3)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=03C75B&height=400&section=header&text=Seung-Hwan%20Jung&fontSize=90&desc=Student&animation=fadeIn&fontColor=ffffff&fontAlign=50&fontAlignY=40&descSize=40&descAlign=50&descAlignY=60&stroke=FAE100&strokeWidth=3) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuma1105&theme=highcontrast&show_icons=true)
 
@@ -142,7 +142,7 @@
    - 파트 모델링, 대칭, 구배, 패턴 등 필수 모델링 도구 연습
    - 기본, 중급 모델링 연습, 모델링 수정과 편집
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=395498&height=400&text=Thank%20you%20for%20comming😊&fontSize=60&fontAlignY=55&fontColor=ffffff&stroke=FAE100&strokeWidth=3)
+<!-- ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=395498&height=400&text=Thank%20you%20for%20comming😊&fontSize=60&fontAlignY=55&fontColor=ffffff&stroke=FAE100&strokeWidth=3) -->
 
 <!-- https://github.com/kyechan99/capsule-render#descalign -->
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
