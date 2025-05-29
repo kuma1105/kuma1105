@@ -12,35 +12,37 @@ Hello! Welcome to my github.
 
 - Scratch
 
-- C (Arduino)
+- C(Arduino)
 
-- C++ (알고리즘)
+- C++(Algorithm)
 
-- C# (WinForm)
+- C#(WinForm)
 
-- Java (Spring, Servlet, Thymeleaf, MyBatis, JSP)
+- Java(Spring, Servlet, Thymeleaf, MyBatis, JSP)
 
 - Python (Raspberry Pi, Django, Flask)
 
 - HTML, CSS
 
-- JavaScript (Node.js, MongoDB, ReactJS)
+- JavaScript(Node.js, MongoDB, ReactJS)
 
-- SQL (MySQL, PostgreSQL)
+- SQL(MySQL, PostgreSQL)
 
-- Dart, Flutter (Android APP)
+- Dart, Flutter(Android APP)
 
 - R
 
 - Jupyter Notebook, Colab(BeautifulSoup, Selenium)
 
-- PHP (Laravel)
+- PHP(Laravel)
 
 - Shell
 
 - QGIS
 
 - TypeScript
+
+- Lua(NSE)
 
 # Award
 
@@ -101,16 +103,6 @@ Hello! Welcome to my github.
 - 정보보안기사 필기 (25.03.14)
 
 - 정보보안기사 실기 (예정)
-
-- 빅데이터분석기사 필기 (목표)
-
-- 빅데이터분석기사 실기 (목표)
-
-- 생활체육지도사 2급 - 수영 (목표)
-
-- TESAT (Aim for Level 2 or higher) (목표)
-
-- 기술사 또는 감리사 (목표)
 
 # Foreign Language
 - English(TOEIC 800+)
